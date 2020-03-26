@@ -1,0 +1,9 @@
+[submodule "asoft-platform"]
+	path = asoft-platform
+	url = https://github.com/andylamax/asoft-platform.git
+[submodule "asoft-rx"]
+	path = asoft-rx
+	url = https://github.com/andylamax/asoft-rx.git
+[submodule "asoft-test"]
+	path = asoft-test
+	url = https://github.com/andylamax/asoft-test.git
