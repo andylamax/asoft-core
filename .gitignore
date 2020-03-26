@@ -6,5 +6,9 @@ classes
 **/.gradle
 .idea
 *.iml
+<<<<<<< HEAD
 **/*.iml
 *.hprof
+=======
+**/*.iml
+>>>>>>> 598234fa219530a25acc3e9a0c85d5793697739b
