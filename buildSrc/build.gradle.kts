@@ -3,7 +3,6 @@ plugins {
 }
 
 repositories {
-<<<<<<< HEAD
     google()
     jcenter()
     maven(url = "https://dl.bintray.com/kotlin/kotlin-eap")
@@ -19,11 +18,5 @@ object versions {
 
 dependencies {
     api("com.android.tools.build:gradle:${versions.android.build_tools}")
-=======
-    jcenter()
-}
 
-dependencies {
-
->>>>>>> 598234fa219530a25acc3e9a0c85d5793697739b
 }
