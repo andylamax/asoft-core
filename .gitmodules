@@ -7,3 +7,6 @@
 [submodule "asoft-test"]
 	path = asoft-test
 	url = https://github.com/andylamax/asoft-test.git
+[submodule "asoft-io"]
+	path = asoft-io
+	url = https://github.com/andylamax/asoft-io.git

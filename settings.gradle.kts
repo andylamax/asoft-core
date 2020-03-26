@@ -31,3 +31,4 @@ rootProject.name = "asoft-core"
 include("asoft-test")
 include("asoft-platform")
 include("asoft-rx")
+include(":asoft-io")
