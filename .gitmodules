@@ -10,3 +10,21 @@
 [submodule "asoft-io"]
 	path = asoft-io
 	url = https://github.com/andylamax/asoft-io.git
+[submodule "asoft-email"]
+	path = asoft-email
+	url = https://github.com/andylamax/asoft-email.git
+[submodule "asoft-phone"]
+	path = asoft-phone
+	url = https://github.com/andylamax/asoft-phone.git
+[submodule "asoft-klock"]
+	path = asoft-klock
+	url = https://github.com/andylamax/asoft-klock.git
+[submodule "asoft-krypto"]
+	path = asoft-krypto
+	url = https://github.com/andylamax/asoft-krypto.git
+[submodule "asoft-persist"]
+	path = asoft-persist
+	url = https://github.com/andylamax/asoft-persist.git
+[submodule "asoft-money"]
+	path = asoft-money
+	url = https://github.com/andylamax/asoft-money.git

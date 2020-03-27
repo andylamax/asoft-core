@@ -7,6 +7,7 @@ object versions {
     }
 
     object kotlinx {
+        const val atomicfu = "0.14.2-1.4-M1"
         const val coroutines = "1.3.5-1.4-M1"
         const val serialization = "0.20.0-1.4-M1"
     }
