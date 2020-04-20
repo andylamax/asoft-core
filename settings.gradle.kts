@@ -7,7 +7,7 @@ pluginManagement {
     }
 
     val versions = object {
-        val kotlin = "1.4-M1"
+        val kotlin = "1.3.72"
         val android_tools = "3.6.0"
         val jfrog = "1.8.5"
     }

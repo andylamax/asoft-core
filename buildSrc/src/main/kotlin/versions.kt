@@ -1,15 +1,11 @@
 object versions {
-    const val kotlin = "1.4-M1"
+    const val kotlin = "1.3.72"
     const val selenium = "4.0.0-alpha-4"
 
-    object asoft {
-        const val test = "4.2.1-1.4-M1"
-    }
-
     object kotlinx {
-        const val atomicfu = "0.14.2-1.4-M1"
-        const val coroutines = "1.3.5-1.4-M1"
-        const val serialization = "0.20.0-1.4-M1"
+        const val atomicfu = "0.14.2"
+        const val coroutines = "1.3.5"
+        const val serialization = "0.20.0"
     }
 
     object android {
