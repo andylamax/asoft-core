@@ -9,6 +9,7 @@ pluginManagement {
     val versions = object {
         val kotlin = "1.4-M1"
         val android_tools = "3.6.0"
+        val jfrog = "1.8.5"
     }
 
     resolutionStrategy {
@@ -21,6 +22,9 @@ pluginManagement {
             }
             if (requested.id.id.contains("android")) {
                 useModule("com.android.tools.build:gradle:${versions.android_tools}")
+            }
+            if (requested.id.id.contains("jfrog")) {
+                useModule("com.jfrog.bintray.gradle:gradle-bintray-plugin:${versions.jfrog}")
             }
         }
     }
